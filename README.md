@@ -49,12 +49,12 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/vkkZs6t_DZo)**</i>
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/vaishnavofficial/annabelle/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Beatstrackers/moo
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -99,19 +99,10 @@ python3 bot.py
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORT)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORTEZ)
-
-## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/kunjappandevs)
 
 
-## Thanks to 
- - Thanks To Dan For His Awsome [Libary](https://github.com/hopepsycho/psycho)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/hopepsycho/kunjappan2.0)
- - Thanks To [PSYCHO](https://github.com/hopepsycho) for Their Awesome [Unlimited Filter Bot](https://github.com/hopepsycho/king_of_psycho) And [AutoFilterBoT](https://github.com/hopepsycho/kunjappan2.0)
- - Thanks To All Everyone In This Journey
+
+
 
 ### Note
 
@@ -125,7 +116,4 @@ Fork the repo and edit as per your needs.
 Licensed under [GNU AGPL 2.0.](https://github.com/hopepsycho/kunjappan2.0/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
-[![For Vaza](https://telegra.ph/file/cfc422395273551a0b148.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
